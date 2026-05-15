@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:991b1b&height=230&section=header&text=Ordem%20de%20Servi%C3%A7o&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CRUD%20com%20PHP%20%26%20SQLite&descAlignY=55&descSize=18&descColor=fca5a5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:991b1b&height=230&section=header&text=Ordem%20de%20Servi%C3%A7o&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CRUD%20com%20PHP%20e%20SQLite&descAlignY=55&descSize=18&descColor=fca5a5" />
 
 <br/>
 
