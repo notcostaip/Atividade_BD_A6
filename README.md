@@ -81,6 +81,6 @@ Abra o navegador em `http://localhost:8000`.
 
 <br/>
 
-**Feito por [Costa](https://github.com/notcostaip) com ☕ e muita diversão.**
+**Created by [Costa](https://github.com/notcostaip)**
 
 </div>
